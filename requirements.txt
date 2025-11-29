@@ -1,0 +1,9 @@
+# Excel file parsing
+openpyxl>=3.1.0
+
+# HTTP requests for Mouser API
+requests>=2.31.0
+
+# Google Gemini AI for intelligent keyword generation
+google-generativeai>=0.3.0
+
